@@ -1,0 +1,9 @@
+Package: com.aehmlo.statusprettifier
+Name: Status Bar Prettifier
+Depends: mobilesubstrate, firmware (>=8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes some annoyances from the status bar.
+Maintainer: Aehmlo Lxaitn
+Author: Aehmlo Lxaitn
+Section: Tweaks
