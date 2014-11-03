@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = StatusBarPrettifierPrefs;
+	cell = PSLinkCell;
+	detail = StatusBarPrettifierPrefsListController;
+	icon = StatusBarPrettifier.png;
+	isController = 1;
+	label = "Status Bar Prettifier";
+    };
+}
